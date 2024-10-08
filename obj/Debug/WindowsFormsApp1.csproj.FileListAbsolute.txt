@@ -1,0 +1,17 @@
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\bin\Debug\ru\EntityFramework.resources.dll
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\2024-2025\44ИС\Зохиров\РКИС\ЛР 3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
